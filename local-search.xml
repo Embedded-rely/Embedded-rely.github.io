@@ -8,7 +8,7 @@
     <link href="/2024/04/26/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2024/04/26/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="这是一篇测试文章"><a href="#这是一篇测试文章" class="headerlink" title="这是一篇测试文章"></a>这是一篇测试文章</h2><p>#include “dada.h”<br>int main()<br>{</p><pre><code class="hljs">while(1)&#123;&#125;</code></pre><h2 id=""><a href="#" class="headerlink" title="}"></a>}</h2><hr>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1>这是一篇测试文章</h1><h2>这是一篇测试文章</h2>---#include "dada.h"int main(){<pre><code class="hljs">while(1)&#123;&#125;</code></pre><h2 id=""><a href="#" class="headerlink" title="}"></a>}</h2><hr>]]></content>
     
     
     <categories>
